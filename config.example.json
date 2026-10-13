@@ -1,0 +1,10 @@
+{
+  "proxy": {
+    "server": "your-proxy-server.com",
+    "port": 1080,
+    "username": "your-username",
+    "password": "your-password"
+  },
+  "chrome_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "test_url": "https://browserleaks.com/ip"
+}
