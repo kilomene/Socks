@@ -1,0 +1,10 @@
+{
+  "proxy": {
+    "server": "proxy.hideiqxshlgvjk.com",
+    "port": 5050,
+    "username": "ip-32.218.55.149",
+    "password": "pwvflzukpdjh"
+  },
+  "chrome_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "test_url": "https://browserleaks.com/ip"
+}
