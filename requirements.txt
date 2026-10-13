@@ -1,0 +1,9 @@
+# Install with:
+#   C:\Users\User\AppData\Local\Programs\Python\Python310\python.exe -m pip install -r requirements.txt
+
+colorama
+requests[socks]
+psutil
+PySocks
+Pillow
+pygetwindow
